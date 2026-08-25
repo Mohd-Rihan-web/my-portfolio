@@ -167,6 +167,7 @@ button {
   justify-content: space-between;
   padding: 26px 32px;
   mix-blend-mode: difference;
+  backdrop-filter: blur(5px);
 }
 
 .nav-logo {
