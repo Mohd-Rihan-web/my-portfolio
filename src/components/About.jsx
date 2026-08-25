@@ -61,6 +61,15 @@ export default function About() {
             </div>
           </div>
         </div>
+         <a
+          href="https://ik.imagekit.io/rihan/Mohd_Rihan_Resume.pdf"
+          download="Mohd_Rihan_Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="download-cv"
+        >
+          Download CV
+        </a>
       </div>
     </section>
   )
